@@ -1,0 +1,7 @@
+README.md
+setup.py
+ds_project1.egg-info/PKG-INFO
+ds_project1.egg-info/SOURCES.txt
+ds_project1.egg-info/dependency_links.txt
+ds_project1.egg-info/requires.txt
+ds_project1.egg-info/top_level.txt
